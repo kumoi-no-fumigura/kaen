@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kaen",
  "yomi": "かえんかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸後期",
+  "author": "沢田名垂（1775〜1845）",
+  "desc": "会津藩士で国学者の沢田名垂の家集の抄。「竹谷若鶯」「夜梅」などの題詠のほか、「獄中燕」の題詠や、吉野で詠んだ歌も収める。"
+ },
  "editions": [
   {
    "pid": "993386",
